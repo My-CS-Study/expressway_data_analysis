@@ -25,7 +25,7 @@ and thereby the ones per the shortest interval(five minutes) are used for this p
     their values range from their minimum to maximum values.
   </p>
 </ol>
-<strong>MODEL-KMEANS ALGORITHM</strong>
+<strong>MODEL:KMEANS ALGORITHM</strong>
 <ol>
   <li>FIND AN OPTIMAL K</li><p>As the K-Means algorithm can be excecuted only after a value of k, i.e., the number of clusters, is given, an optimal
   value of k needs finding at first. This was done by plotting inertial against k and finding the so-called ellbow. Though the plot does not have a distinct
