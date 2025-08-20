@@ -1,4 +1,5 @@
-<h1>ABSTRACT ON CONGESTION PATTERNS</h1>
+# 1. CONGESTION PATTERNS
+## &lt;ABSTRACT&gt;
 <p align="justify">
 &nbsp;&nbsp;This mini-project aims to <strong>find out patterns from highway velocity data</strong>, collected and distributed by Korea Expressway Corporation 
 through <a href="https://data.ex.co.kr/">its open data portal</a>. To be specific, the velocity of vehicles on highway is said to be measured and logged by
@@ -7,8 +8,8 @@ and thereby the ones per the shortest interval(five minutes) are used for this p
   with the use of one of the widely used clustering algorithms, K-Means.  
 </p>
 
+**&lt;METHOD&gt;**
 <p align="justify">
-<h1>METHOD</h1>
 <strong>PREPROCESSING</strong>
 <ol>
   <li>COMBINE DATA</li>
