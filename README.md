@@ -38,7 +38,7 @@ and thereby the ones per the shortest interval(five minutes) are used for this p
 </p>
 
 # 2. Road Traffic in Gyeongsangnam-do Analyzed Through Network Theory
-For the 2023 Gyeongsangnam-do Big Data Analysis Contest
+For 2023 Gyeongsangnam-do Big Data Analysis Contest hosted by [**Gyeongnam Big Data Center**](https://bigdata.gyeongnam.go.kr/index.gn)
 <br><br>**&lt;ABSTRACT&gt;**
 <p align="justify">
 &nbsp;&nbsp;Gyeongsangnam-do was conceptualized as a network of 18 nodes, each of them corresponds to either a city or a county in the province, and was analyzed using network theory. 
