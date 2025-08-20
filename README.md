@@ -1,5 +1,5 @@
-# 1. CONGESTION PATTERNS
-## &lt;ABSTRACT&gt;
+# 1. CONGESTION PATTERNS (PI : Prof. B. HONG)
+&lt;ABSTRACT&gt;
 <p align="justify">
 &nbsp;&nbsp;This mini-project aims to <strong>find out patterns from highway velocity data</strong>, collected and distributed by Korea Expressway Corporation 
 through <a href="https://data.ex.co.kr/">its open data portal</a>. To be specific, the velocity of vehicles on highway is said to be measured and logged by
@@ -34,11 +34,6 @@ and thereby the ones per the shortest interval(five minutes) are used for this p
   </p>
   <li>FIND CLUSTERS</li><p>Velocity patterns were found with respect to three different k values, namely, 20, 30 and 40.</p>
 </ol>
-</p>
-
-<h1>AKNOWLEDGEMENT</h1>
-<p align="justify">
-  Sincere gratitude to Prof. Hong in the department of computer science at PNU, who supervised this project. 🙌
 </p>
 
 
