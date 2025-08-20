@@ -37,7 +37,13 @@ and thereby the ones per the shortest interval(five minutes) are used for this p
 </ol>
 </p>
 
-
+# 2. Road Traffic in Gyeongsangnam-do Analyzed Through Network Theory
+For the 2023 Gyeongsangnam-do Big Data Analysis Contest
+<br>**&lt;ABSTRACT&gt;**
+<p align="justify">
+&nbsp;&nbsp;Gyeongsangnam-do was conceptualized as a network of 18 nodes, each of them corresponds to either a city or a county in the province, and was analyzed using network theory. 
+  Building on this framework, I also considered South Korea as a network composed of 17 metropolitan municipalities. Gyeongsangnam-do emerged as a key non-capital region, with the highest number of neighboring nodes (six) and the second-highest intercity traffic volume after the Seoul Capital Area—highlighting its role as a regional transportation hub. Expanding the scope, a more detailed network was built for Gyeongsangnam-do and its six adjacent regions, incorporating traffic data from national and local roads. Edge weights were assigned based on segment traffic volumes and visualized using a colormap, revealing strong connectivity with Busan Metropolitan City. By comparing traffic volumes with average commute-time speeds, the study assessed infrastructure performance. Notably, the Gyeongsangnam-do–Ulsan corridor showed severe congestion despite low traffic volume, suggesting the need to identify and address bottlenecks. An analysis of route balance across adjacent regions revealed significant disparities. These imbalances were further examined using the constructed network, population data, and regional maps. Network theory was then applied to quantify the characteristics of city and county nodes within Gyeongsangnam-do. While the region’s administrative layout supports efficient internal mobility, concentrated traffic flows—especially toward Busan—limit the full utilization of this advantage. Using betweenness and closeness centrality, a composite centrality score was calculated, identifying Jinju, Uiryeong, and Changwon as potential transportation hubs. Although these nodes have above-average connectivity, their links remain underutilized. Enhancing infrastructure around these areas could alleviate current traffic issues and improve accessibility for residents and visitors across the province.
+</p>
 
 
 
